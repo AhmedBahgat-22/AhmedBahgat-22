@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0066FF,100:8A2BE2&text=Ahmed%20Abdelmoula&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Web%20Development%20%7C%20AI%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" alt="Ahmed Abdelmoula Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0066FF,100:8A2BE2&text=Ahmed%20Bahgat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Web%20Development%20%7C%20AI%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" alt="Ahmed Bahgat Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Ahmed+Abdelmoula;Computer+Engineering+Student;Web+Developer+%7C+AI+Engineering;Machine+Learning+%7C+Deep+Learning;Building+Ideas+Into+Reality!" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Ahmed+Bahgat;Computer+Engineering+Student;Web+Developer+%7C+AI+Engineering;Machine+Learning+%7C+Deep+Learning;Building+Ideas+Into+Reality!" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=3500&pause=1500&color=000000&background=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=Ahmed+Abdelmoula;Web+Developer;AI+Engineering+Enthusiast" alt="Ahmed Abdelmoula Animated Introduction" width="85%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="52%" alt="Hello Coders"/>
 
 <br><br>
 
@@ -19,6 +19,12 @@
 
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00C9A7?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AhmedBahgat-22&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/AhmedBahgat-22?label=Followers&style=for-the-badge&color=00BFFF&logo=github" alt="Followers"/>
+
 </div>
 
 ---
@@ -27,9 +33,9 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
-### Hi there! I'm Ahmed Abdelmoula 👋
+### Hi there! I'm Ahmed Bahgat 👋
 
 I'm a **Computer Engineering student** at **Istanbul Arel University, Türkiye**, passionate about creating modern web applications and building intelligent AI-powered solutions.
 
@@ -53,6 +59,11 @@ My main areas of focus are:
 🌍 **From:** Alexandria, Egypt 🇪🇬
 
 💡 **My Goal:** To combine Software Engineering and Artificial Intelligence to develop practical, efficient, and innovative solutions.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer at Work"/>
 
 </td>
 </tr>
@@ -102,7 +113,7 @@ My main areas of focus are:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies"/>
 
 <br><br>
 
@@ -161,8 +172,8 @@ My main areas of focus are:
 <h2 align="center">🧠 My Developer Profile</h2>
 
 ```javascript
-const ahmedAbdelmoula = {
-  name: "Ahmed Abdelmoula",
+const ahmedBahgat = {
+  name: "Ahmed Bahgat",
 
   education: {
     university: "Istanbul Arel University",
@@ -315,13 +326,97 @@ Building software solutions and understanding computer systems.
 
 ---
 
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+### 💊 Smart Drug Recognition System
+
+**Deep Learning | Computer Vision | Python**
+
+A deep learning project for image-based classification of original and counterfeit medicine packaging using MobileNetV2.
+
+<a href="https://github.com/AhmedBahgat-22/Smart-Drug-Recognition-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🪙 Automated Coin Detection & Extraction
+
+**Python | OpenCV | Image Processing**
+
+An image processing project using filtering, thresholding, morphological operations, and contour detection to extract coins from images.
+
+<a href="https://github.com/AhmedBahgat-22/Automated-Coin-Detection-and-Extraction">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🌐 Network Routing Algorithms Simulator
+
+**C++ | Algorithms | Computer Networks**
+
+A C++ simulation project implementing routing techniques including Dijkstra, Distance Vector, Link State, and Flooding.
+
+<a href="https://github.com/AhmedBahgat-22/Network-Routing-Algorithms-Simulator">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🚗 Toyota Full-Stack Web Project
+
+**Web Development**
+
+A web development project exploring website implementation and full-stack development concepts.
+
+<a href="https://github.com/AhmedBahgat-22/Toyota-web--Full-Stack">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🛒 SOK Store Management System
+
+**Java | Desktop Application**
+
+A Java desktop application for supermarket employee and inventory management.
+
+<a href="https://github.com/AhmedBahgat-22/basic-SOK-Store-Management-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🚘 Toyota Website
+
+**HTML5 | CSS3 | Frontend Development**
+
+A frontend project recreating the visual structure and styling of a Toyota website.
+
+<a href="https://github.com/AhmedBahgat-22/Toyota-web">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/AhmedBahgat-22?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_My_Repositories-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedBahgat-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=AhmedBahgat-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBahgat-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedBahgat-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
 
 <br><br>
 
@@ -347,17 +442,26 @@ Building software solutions and understanding computer systems.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1100&color=00D9FF&center=true&vCenter=true&width=750&height=90&lines=Eat.+Sleep.+Code.+Debug.+Repeat.;Building+the+Future+with+Code.;Keep+Learning.+Keep+Creating.;Passionate+About+Web+and+AI." alt="Coding Life Animation"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="45%" alt="Developer Animation"/>
 
 <br><br>
 
 **Eat. Sleep. Code. Debug. Repeat.**
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=First+make+it+work.;Then+make+it+better.;Never+stop+learning.;Code.+Build.+Learn.+Repeat." alt="Coding Philosophy"/>
 
 </div>
+
+<!--
+VIDEO DEMO TEMPLATE
+
+When you have a real project demo video, replace the two URLs:
+
+[![Watch My Project Demo](YOUR_VIDEO_THUMBNAIL_URL)](YOUR_REAL_VIDEO_URL)
+
+GitHub README does not support embedded video players.
+Use a linked thumbnail or GIF instead.
+-->
 
 ---
 
@@ -386,14 +490,14 @@ Building software solutions and understanding computer systems.
 </a>
 
 <a href="https://github.com/AhmedBahgat-22?tab=repositories">
-<img src="https://img.shields.io/badge/My_Repositories-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/My_Projects-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 **Open to learning, collaboration, and meaningful software projects.**
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Happy+Coding!" alt="Closing Animation"/>
 
@@ -402,3 +506,10 @@ Building software solutions and understanding computer systems.
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0066FF,100:8A2BE2" alt="Footer"/>
+
+<!--
+Animated GIF credits:
+https://github.com/SP-XD/SP-XD
+
+Other badges and visual cards are rendered by external services.
+-->
